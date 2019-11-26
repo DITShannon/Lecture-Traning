@@ -1,1 +1,1 @@
-# Lecture-Traning
+# Leetcode-Traning
